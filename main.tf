@@ -11,8 +11,8 @@ terraform {
 
 provider "aws" {
   region     = "us-east-1"
-  access_key = "AKIAXWHDLRER2NOWHZ4B"
-  secret_key = "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"
+  access_key = ""
+  secret_key = ""
 }
 
 # 🔹 Crear un S3 Bucket
